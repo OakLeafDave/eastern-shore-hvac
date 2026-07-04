@@ -1,0 +1,12 @@
+{
+  "name": "Eastern Shore Heating & Air Conditioning",
+  "short_name": "Eastern Shore HVAC",
+  "description": "Family-owned heating, cooling & air quality for the Jersey Shore since 1979.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F3EC",
+  "theme_color": "#C96442",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
